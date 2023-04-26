@@ -1,2 +1,2 @@
 # IAMPM_Git
-Jestem Bartek, lubię placki
+Jestem Bartek, lubię placki!
